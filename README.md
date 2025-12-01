@@ -1,1 +1,1 @@
-The aim of this project is to perform water segmentation of satellite images using the U-Net model
+Developed a U-Net-based model to segment water bodies from land and track temporal water-level changes, enabling early drought alerts through a threshold-based monitoring pipeline.
