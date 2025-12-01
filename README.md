@@ -11,4 +11,4 @@ Below is a visualization of model performance on sample images.
 
 ## Real-Time Output
 A screenshot showing how the model performs on real satellite imagery, highlighting segmented water bodies and detected drought signals.
-![Real-Time Output](real-time-performance.png)
+![Real-Time Output](git/real-time-performance.png)
